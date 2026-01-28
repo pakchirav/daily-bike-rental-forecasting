@@ -7,3 +7,4 @@ A time-series forecasting project to predict daily bike rental demand using SARI
 This was a collaborative academic project.
 * **My Role:** Defined business problem, selected external variables (holidays/weather), and interpreted the model results for business insights.
 * **Tech Stack:** Python, Pandas, Statsmodels.
+
